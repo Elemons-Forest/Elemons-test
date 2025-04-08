@@ -1,4 +1,5 @@
-# 폴더 구조
+# 📁 폴더 구조
+```
 Content
 ├─ExternalAssets
 │  ├─Fantasy_Free
@@ -28,3 +29,4 @@ Content
 └─__ExternalObjects__
     └─_Main
         └─Levels
+```
